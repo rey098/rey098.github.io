@@ -1,0 +1,28 @@
+body {
+   min-height: 100vh;
+   background-image: url(background\ profile.jpeg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+}
+b{
+    text-align: center;
+}
+
+a {
+    background-color: rgb(153, 0, 255) ;
+    padding: 10px;
+    margin: 10px;
+}
+a:hover {
+    background-color: aqua;
+}
+h1 {
+    text-transform: uppercase;
+}
+td {
+    text-transform: capitalize;
+}
+span {
+    color: black;
+}
